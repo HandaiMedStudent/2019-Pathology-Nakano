@@ -436,7 +436,8 @@
 	- 鼻咽頭nasopharyngealがん。
 
 ### HBV（B型肝炎ウィルス）、HCV（C型肝炎ウィルス）
-正直わかってないことだらけ。最近の研究成果；2018年理研→http://www.riken.jp/pr/press/2018/20180523_1/　2019年国立がん研→https://www.ncc.go.jp/jp/information/pr_release/2019/0226/index.html
+正直わかってないことだらけ。最近の研究成果；2018年理研→http://www.riken.jp/pr/press/2018/20180523_1/  
+2019年国立がん研→https://www.ncc.go.jp/jp/information/pr_release/2019/0226/index.html
 - 肝細胞がんのほとんどの原因。メカニズムはよくわからない。
 	- ウィルスタンパク質をコードしない。HBVはゲノムに組み込むが、一貫したパターンはない。
 	- 肝細胞死を伴う慢性炎症がメイン？ピロリ菌などによる慢性炎症によって免疫応答が不活化？
