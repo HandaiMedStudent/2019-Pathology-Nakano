@@ -7,3 +7,4 @@
 - 4/24 Chapter2, Chapter3をアップロード。
 - 4/26 Chapter4をアップロード。
 - 5/9 Chapter6をアップロード。
+- 5/10 Chapter7_Geneticsをアップロード。
