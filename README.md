@@ -8,3 +8,4 @@
 - 4/26 Chapter4をアップロード。
 - 5/9 Chapter6をアップロード。
 - 5/10 Chapter7_Geneticsをアップロード。
+- 5/12 Chapter7_Pedeatricsをアップロード。
